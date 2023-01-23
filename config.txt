@@ -1,0 +1,10 @@
+Custo monetário do acesso:
+2.5
+Duração em milisegundos do movimento do tapete:
+10000
+Duração em milisegundos do movimento dos rolos:
+5000
+Duração em milisegundos do movimento dos aspersores:
+6000
+Duração em milisegundos da secagem:
+5000

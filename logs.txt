@@ -1,0 +1,42 @@
+2021-12-20T22:40:38.018316 Sistema Aberto
+2021-12-20T22:40:41.421441800 Sistema Fechado
+2021-12-20T22:40:47.581525900 Sistema Aberto
+2021-12-20T22:40:56.841510600 Sistema Fechado
+2021-12-20T22:41:06.225892200 Sistema Aberto
+2021-12-20T22:41:07.885574600 Carro adicionado à lista de espera
+2021-12-20T22:41:12.888725300 Inicio de lavagem
+2021-12-20T22:41:12.889723900 Tapete anda para a frente
+2021-12-20T22:41:18.949285100 Carro adicionado à lista de espera
+2021-12-20T22:41:22.729934800 Carro adicionado à lista de espera
+2021-12-20T22:41:22.894247 Tapete para
+2021-12-20T22:41:22.895254200 Aspersores ligam
+2021-12-20T22:41:25.645502200 Carro adicionado à lista de espera
+2021-12-20T22:41:28.909495 Aspersores desligam
+2021-12-20T22:41:28.911454200 Rolos iniciam
+2021-12-20T22:41:31.221497300 Carro adicionado à lista de espera
+2021-12-20T22:41:33.925382300 Rolos param
+2021-12-20T22:41:33.926333600 Secadores ligam
+2021-12-20T22:41:34.105042800 Carro adicionado à lista de espera
+2021-12-20T22:41:38.077427300 Carro adicionado à lista de espera
+2021-12-20T22:41:38.932803800 Secadores desligam
+2021-12-20T22:41:38.933747500 Tapete anda para trás
+2021-12-20T22:41:42.533626700 Sistema Fechado
+2021-12-20T22:41:48.946954600 Tapete para
+2021-12-20T22:41:48.947950800 Fim da Lavagem
+2021-12-20T22:41:52.097899100 Sistema em Emergência
+2021-12-20T22:42:01.608972200 Fim de sistema em Emergência
+2021-12-20T22:42:01.617943900 Inicio de lavagem
+2021-12-20T22:42:01.618943 Tapete anda para a frente
+2021-12-20T22:42:03.277551600 Sistema em Emergência
+2021-12-20T22:42:04.725791400 Fim de sistema em Emergência
+2021-12-20T22:42:10.688973200 Reset do Sistema
+2021-12-20T22:42:11.622046800 Tapete para
+2021-12-20T22:42:11.623032800 Aspersores ligam
+2021-12-20T22:42:17.630186300 Aspersores desligam
+2021-12-20T22:42:17.631182700 Rolos iniciam
+2021-12-20T22:42:22.640265800 Rolos param
+2021-12-20T22:42:22.641310300 Secadores ligam
+2021-12-20T22:42:27.643053 Secadores desligam
+2021-12-20T22:42:27.643943300 Tapete anda para trás
+2021-12-20T22:42:37.658661800 Tapete para
+2021-12-20T22:42:37.659659300 Fim da Lavagem
